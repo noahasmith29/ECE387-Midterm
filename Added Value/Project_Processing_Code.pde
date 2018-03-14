@@ -1,3 +1,5 @@
+//Lines 2-8, 15-34, 60-61 are all original code lines
+
 import oscP5.*;        //  Load OSC P5 library
 import netP5.*;        //  Load net P5 library
 import processing.serial.*;    //  Load serial library
