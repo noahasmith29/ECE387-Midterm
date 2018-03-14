@@ -1,0 +1,1 @@
+TouchOSC raw code cannot be easily interpreted in github, a picture of the interface is provided
