@@ -1,3 +1,5 @@
+//Lines 4-147, 307-309, 312, 315, 326, 334, 343, 351, 359, 477, 484-491, 494-497, are all original code lines
+
 //Defines 88 keys from B0 to D Sharp 8
 #define NOTE_B0  31
 #define NOTE_C1  33
